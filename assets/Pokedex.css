@@ -94,7 +94,7 @@ body {
 }
 
 .section2 {
-  margin: auto;
+  margin-left: 18em;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
  
