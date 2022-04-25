@@ -19,7 +19,7 @@ window.addEventListener("load", () => {
     createPokemon();
   });
 
-  function createPokemon(name, type, url) {
+  function createPokemon() {
     let infos = {
       name: inputName.value,
       type: inputType.value,
