@@ -33,16 +33,6 @@ window.addEventListener("load", () => {
     inputUrl.value = "";
 
     RefreshPokedex();
-
-    // pokedex.forEach((pokemon) => {
-    //   if (
-    //     pokemon.inputName == name &&
-    //     pokemon.inputType == type &&
-    //     pokemon.inputUrl == url
-    //   ) {
-    //     pokedex.slice(-1);
-    //   }
-    // });
   }
 
   function RefreshPokedex() {

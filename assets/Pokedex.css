@@ -7,10 +7,6 @@ body {
 }
 
 .container {
-  min-width: auto;
-  margin: auto;
-  display: flex;
-  position: relative;
   margin: 2rem 2rem;
 }
 
